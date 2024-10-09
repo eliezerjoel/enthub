@@ -1,0 +1,5 @@
+name: string
+description: string
+write-up: string
+rating: number
+organisation: string

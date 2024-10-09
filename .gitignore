@@ -8,6 +8,9 @@
 
 # testing
 /coverage
+index1.js
+index12.js
+frontend1
 
 # next.js
 /.next/
@@ -26,7 +29,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env*.local
+.env
 
 # vercel
 .vercel
